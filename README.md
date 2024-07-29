@@ -1,6 +1,6 @@
 # creativo
 
-A flutter chatbot project that calls a custom Gemini prompt for creative writing
+A flutter chatbot for Google Play that calls a custom Gemini prompt for creative writing
 
 ## Getting Started
 
